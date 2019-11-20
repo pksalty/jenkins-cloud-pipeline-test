@@ -1,4 +1,4 @@
 
-node('jenkins-slave') {
+node('kitchen-slave') {
   sh 'env'
 }
